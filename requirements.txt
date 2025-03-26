@@ -1,0 +1,7 @@
+opencv-python
+numpy
+dlib
+tensorflow
+scikit-learn
+joblib
+flask
